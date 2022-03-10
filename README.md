@@ -1,3 +1,3 @@
 # HFDesignPatterns
 
-Going through the "Head First Design Patterns" book by O'Reilly and typing up examples
+Going through the "Head First Design Patterns" book by O'Reilly and typing up examples using C# instead of Java
